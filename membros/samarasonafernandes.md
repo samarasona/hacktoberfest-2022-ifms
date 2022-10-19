@@ -15,3 +15,8 @@ lilas
 Telefone: 67998512501
 email:samarasfernandes@gmail.com
 
+# comida favorita
+# doce
+sorvete de maracuja
+# salgado
+pão de queijo
