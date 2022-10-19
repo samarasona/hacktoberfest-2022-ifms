@@ -20,3 +20,6 @@ email:samarasfernandes@gmail.com
 sorvete de maracuja
 # salgado
 pão de queijo
+
+# curiosidade
+não gosto de serie
