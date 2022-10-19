@@ -11,3 +11,7 @@ Cursando o ensino medio na IFMS
 # cor favorita
 lilas
 
+# meu contatos
+Telefone: 67998512501
+email:samarasfernandes@gmail.com
+
