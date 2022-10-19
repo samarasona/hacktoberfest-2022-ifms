@@ -8,3 +8,6 @@ tenho 17 anos
 # formação
 Cursando o ensino medio na IFMS
 
+# cor favorita
+lilas
+
